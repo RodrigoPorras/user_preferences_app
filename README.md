@@ -1,16 +1,11 @@
-# preferencias_usuario_app
+# User Preferences APP
 
-A new Flutter project.
+Flutter app to test local user both ios and android preferences, using sharedpreferences library, the data persist even if the app get closed 
 
-## Getting Started
+using data preferences through pages 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/RodrigoPorras/user_preferences_app/blob/master/gif/1.gif" height="500" />
 
-A few resources to get you started if this is your first Flutter project:
+using data preferences even if the app is get closed
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RodrigoPorras/user_preferences_app/blob/master/gif/2.gif" height="500" />
